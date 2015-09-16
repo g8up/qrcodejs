@@ -1,0 +1,30 @@
+{
+  "name": "qrcodejs",
+  "version": "1.0.0",
+  "description": "QRCode.js is a javascript library for making QRCode. QRCode.js supports Cross-browser with HTML5 Canvas and table tag in DOM.\r QRCode.js has no dependencies.",
+  "main": "gulpfile.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g8up/qrcodejs.git"
+  },
+  "keywords": [
+    "qrcode"
+  ],
+  "author": "g8up",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g8up/qrcodejs/issues"
+  },
+  "homepage": "https://github.com/g8up/qrcodejs",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
